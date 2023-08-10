@@ -1,7 +1,7 @@
 # Plant-Disease-Detection
 # Plant Disease Detection using Faster R-CNN-MobileNetV2
 
-![Example](/path/to/example/image.png)
+
 
 ## Overview
 
@@ -63,6 +63,6 @@ This repository contains the implementation of a deep learning-based object dete
 
 1. Kaggle. Plant Village Dataset. [Link](https://www.kaggle.com/emmarex/plantdisease)
 2. TensorFlow. MobileNetV2. [Link](https://www.tensorflow.org/api_docs/python/tf/keras/applications/MobileNetV2)
-3. ...
+
 
 Feel free to customize this README file to suit your project's specific details and requirements. Make sure to provide clear instructions and explanations to help users understand and use your project effectively.
