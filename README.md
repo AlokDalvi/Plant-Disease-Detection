@@ -27,7 +27,7 @@ This repository contains the implementation of a deep learning-based object dete
 - Python 3.7+
 - TensorFlow 2.x
 - Keras
-- ...
+
 
 ### Installation
 
